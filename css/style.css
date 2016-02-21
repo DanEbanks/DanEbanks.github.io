@@ -1,0 +1,71 @@
+body {
+	background-color: rgb(230,58,175);
+	background-image: url(../images/IMG_3293.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	/* This is a comment */
+font-family: 'Permanent Marker', cursive;
+}
+
+.main {
+	background: rgba(255,255,255,0.66);
+	max-width: 600px;
+	margin: 0 auto;
+	padding: 20px;
+	border-radius: 20px;
+  }
+
+
+
+h1 {
+	text-align: center;
+	font-size: 60px;
+	margin-bottom: 0;
+}
+
+
+h3,h2 {
+	cursor:pointer;
+	margin-bottom: 0;
+}
+
+
+{
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+	font-weight: normal;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+	border: 20px dotted grey;
+	border-radius: 70px;
+}
+
+p,
+ul,
+ol {
+	line-height: 1.6;
+	list-style: none;
+	padding-left: 0;
+}
+
+a{
+	font-weight: bold;
+	color: #774400;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: red;
+}
+
+
+
+
+
+}
